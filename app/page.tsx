@@ -4,7 +4,6 @@ import Stats from "@/components/Stats";
 import LongForms from "@/components/LongForms";
 import Shorts from "@/components/Shorts";
 import Clients from "@/components/Clients";
-import Impact from "@/components/Impact";
 import Testimonials from "@/components/Testimonials";
 import Drives from "@/components/Drives";
 import Contact from "@/components/Contact";
@@ -20,7 +19,6 @@ export default function Home() {
         <LongForms />
         <Shorts />
         <Clients />
-        <Impact />
         <Testimonials />
         <Drives />
         <Contact />
